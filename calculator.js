@@ -1,5 +1,6 @@
 let displayCalc = document.querySelector('#displayResult')
 let flag = false
+let flag2= true
 
 function addToCalculator(Numbers) {
     displayCalc.value += Numbers
